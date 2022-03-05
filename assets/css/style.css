@@ -75,7 +75,7 @@ section {
     padding: 60px;
 }
 
-/* Hero Style Start */
+/*#region Hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpeg");
     height: 600px;
@@ -125,4 +125,4 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
-/* Hero Styles End */
+/*#endregion Hero Styles End */
