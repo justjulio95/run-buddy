@@ -56,6 +56,13 @@ header nav ul li a {
     font-size: 1.55vw;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5)
 }
+
+header nav ul li a:hover {
+    background: #fce138;
+    color: #024e76;
+    border-radius: 15px;
+    text-shadow: none;
+  }
 /* #endregion */
 
 /* #region apply style to <footer> */
@@ -414,13 +421,6 @@ section {
     header nav ul li a {
         font-size: 20px;
     }
-
-    header nav ul li a:hover {
-        background: #fce138;
-        color: #024e76;
-        border-radius: 15px;
-        text-shadow: none;
-      }
 
     footer h2, footer div {
         text-align: center;
